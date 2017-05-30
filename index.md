@@ -44,13 +44,7 @@ The ball type.
 
 > Type: Boolean
 
-Whether the game leaders is part of the SportStarta Partership Programme.
-
-### sportstarta:minimumAttendeeCapacity
-
-> Type: Integer
-
-Minimum number of players required to start the game
+Whether the game leader is part of the SportStarta Partership Programme.
 
 ### sportstarta:minimumAttendeeCapacity
 
