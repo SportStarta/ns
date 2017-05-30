@@ -56,13 +56,15 @@ Minimum number of players required to start the game
 
 > Type: Integer
 
-Number of players remaining before the game can start
+Number of players remaining who must join before the game can start
 
 
 # Enumeration members
 
 ## Domain: [EventStatusType](http://schema.org/EventStatusType) 
 
-### http://data.sportstarta.com/ns/EventPending
+### `http://data.sportstarta.com/ns/EventPending`
 
-The game is not yet confirmed, as it is still awaiting the number of players stated in `sportstarta:attendeesNeeded`.
+> Possible value of eventStatus, alongside `http://schema.org/EventScheduled` and `http://schema.org/EventCancelled`
+
+Indicates that the game is not yet confirmed, as it is still awaiting the number of players stated in `sportstarta:attendeesNeeded`.
