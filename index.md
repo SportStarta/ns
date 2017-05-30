@@ -6,7 +6,9 @@
 
 ### sportstarta:rate
 
-The rate associated with this game, from a [list of defined rate concepts](http://www.client1.sport.sportstarta.com/api/concepts/rate). 
+> Type: One of a [list of defined rate concepts](http://www.client1.sport.sportstarta.com/api/concepts/rate). 
+
+The rate of the game.
 
 ### sportstarta:genre
 
