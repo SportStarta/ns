@@ -61,6 +61,12 @@ Number of players remaining who must join before the game can start
 
 # Enumeration members
 
+## Domain: [BusinessEntityType](http://schema.org/BusinessEntityType)
+
+### `http://www.openactive.io/ns-beta/Member`
+
+Indicates that a customer (eligableCustomerType) is a member of the business.
+
 ## Domain: [EventStatusType](http://schema.org/EventStatusType) 
 
 ### `http://data.sportstarta.com/ns/EventPending`
